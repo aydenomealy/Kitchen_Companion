@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:paddingBottom="12dp"
+        android:text="@string/add_food"
+        android:textColor="?attr/text_color"
+        android:textSize="50sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recycle"
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_marginStart="32dp"
+        android:layout_marginTop="25dp"
+        android:layout_marginEnd="32dp"
+        android:layout_marginBottom="32dp"
+        app:layout_constraintBottom_toTopOf="@+id/tableLayout"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView3" />
+
+    <TableLayout
+        android:id="@+id/tableLayout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="25dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent">
+
+        <TableRow>
+
+            <androidx.appcompat.widget.AppCompatImageButton
+                android:id="@+id/meat"
+                android:layout_margin="5dp"
+                android:background="@mipmap/meat_icon" />
+
+            <androidx.appcompat.widget.AppCompatImageButton
+                android:id="@+id/veggie"
+                android:layout_margin="5dp"
+                android:background="@mipmap/veggie_icon" />
+
+            <androidx.appcompat.widget.AppCompatImageButton
+                android:id="@+id/fruit"
+                android:layout_margin="5dp"
+                android:background="@mipmap/fruit_icon" />
+
+        </TableRow>
+
+        <TableRow>
+
+            <androidx.appcompat.widget.AppCompatImageButton
+                android:id="@+id/dairy"
+                android:layout_margin="5dp"
+                android:background="@mipmap/dairy_icon" />
+
+            <androidx.appcompat.widget.AppCompatImageButton
+                android:id="@+id/fat"
+                android:layout_margin="5dp"
+                android:background="@mipmap/fats_icon" />
+
+            <androidx.appcompat.widget.AppCompatImageButton
+                android:id="@+id/spice"
+                android:layout_margin="5dp"
+                android:background="@mipmap/other_icon" />
+        </TableRow>
+    </TableLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

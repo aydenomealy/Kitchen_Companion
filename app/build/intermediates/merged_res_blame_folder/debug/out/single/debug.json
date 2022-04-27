@@ -1,0 +1,794 @@
+[
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_list_header.xml.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\drawable-v24\\list_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_fats_icon.xml.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-anydpi-v26\\fats_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_fats_icon.png.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-hdpi\\fats_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_veggie_icon_round.png.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-xxxhdpi\\veggie_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_home_icon.png.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-xxxhdpi\\home_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_other_icon.png.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-mdpi\\other_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_other_icon_foreground.png.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-xxhdpi\\other_icon_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_meat_icon.png.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-mdpi\\meat_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\drawable_other_icon_background.xml.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\drawable\\other_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_back.png.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-xxxhdpi\\back.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\layout_ingredient_item.xml.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\layout\\ingredient_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_veggie_icon_round.png.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-xxhdpi\\veggie_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_home_icon_round.png.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-hdpi\\home_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\drawable_fats_icon_background.xml.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\drawable\\fats_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_settings_round.xml.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-anydpi-v26\\settings_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_fats_icon.png.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-xhdpi\\fats_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\drawable_lightmode_background.xml.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\drawable\\lightmode_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_dairy_icon_round.xml.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-anydpi-v26\\dairy_icon_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\drawable_veggie_icon_background.xml.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\drawable\\veggie_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_meat_icon_round.png.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-hdpi\\meat_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_back_round.png.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-xhdpi\\back_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\drawable_back_foreground.xml.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\drawable\\back_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_home_icon_round.png.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-xxxhdpi\\home_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_other_icon_round.xml.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-anydpi-v26\\other_icon_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_plus_icon_round.png.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-xxxhdpi\\plus_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_other_icon_round.png.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-xxhdpi\\other_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_plus_icon.png.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-xxhdpi\\plus_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_fats_icon_foreground.png.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-xxxhdpi\\fats_icon_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_home_icon.xml.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-anydpi-v26\\home_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_home_icon.png.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-xhdpi\\home_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_veggie_icon_round.png.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-mdpi\\veggie_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_fats_icon_round.png.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-mdpi\\fats_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_other_icon_round.png.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-xhdpi\\other_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_plus_icon_round.xml.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-anydpi-v26\\plus_icon_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_fruit_icon_foreground.png.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-mdpi\\fruit_icon_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_meat_icon.xml.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-anydpi-v26\\meat_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\drawable_dark_mode.png.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\drawable\\dark_mode.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_fats_icon.png.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-mdpi\\fats_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_back.png.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-mdpi\\back.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_settings_round.png.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-xxxhdpi\\settings_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_veggie_icon_foreground.png.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-mdpi\\veggie_icon_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\drawable_light_mode.png.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\drawable\\light_mode.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_other_icon_round.png.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-mdpi\\other_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_other_icon.xml.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-anydpi-v26\\other_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\layout_frag_add_food.xml.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\layout\\frag_add_food.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_fruit_icon_foreground.png.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-hdpi\\fruit_icon_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_other_icon.png.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-xxxhdpi\\other_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\drawable_back_background.xml.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\drawable\\back_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_dairy_icon_foreground.png.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-xxhdpi\\dairy_icon_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_dairy_icon_foreground.png.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-xxxhdpi\\dairy_icon_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_meat_icon_foreground.png.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-hdpi\\meat_icon_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_veggie_icon_round.xml.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-anydpi-v26\\veggie_icon_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_plus_icon_round.png.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-mdpi\\plus_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\drawable_home_icon_background.xml.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\drawable\\home_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_meat_icon_round.xml.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-anydpi-v26\\meat_icon_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_plus_icon_round.png.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-xxhdpi\\plus_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\drawable_fruit_icon_background.xml.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\drawable\\fruit_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_settings_round.png.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-mdpi\\settings_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_meat_icon.png.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-xxhdpi\\meat_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\layout_recipe_item.xml.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\layout\\recipe_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_back.png.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-hdpi\\back.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_settings_round.png.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-xhdpi\\settings_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\layout_list_item.xml.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\layout\\list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_meat_icon_foreground.png.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-xxxhdpi\\meat_icon_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_fruit_icon_round.png.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-xxxhdpi\\fruit_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\layout_view_recipe_item.xml.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\layout\\view_recipe_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_settings.xml.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_veggie_icon.png.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-xxhdpi\\veggie_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\transition_fade.xml.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\transition\\fade.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_meat_icon_round.png.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-xxxhdpi\\meat_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_settings.png.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-hdpi\\settings.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_other_icon_foreground.png.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-mdpi\\other_icon_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_veggie_icon.xml.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-anydpi-v26\\veggie_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\menu_bottom_nav_menu.xml.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\menu\\bottom_nav_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_dairy_icon_foreground.png.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-xhdpi\\dairy_icon_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_dairy_icon.png.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-xhdpi\\dairy_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\drawable_meat_icon_background.xml.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\drawable\\meat_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_home_icon.png.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-xxhdpi\\home_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_home_icon_round.png.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-mdpi\\home_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_fats_icon_foreground.png.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-hdpi\\fats_icon_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_meat_icon_foreground.png.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-xxhdpi\\meat_icon_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_settings.png.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-xxhdpi\\settings.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\transition_slide_left.xml.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\transition\\slide_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_fats_icon.png.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-xxxhdpi\\fats_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_plus_icon.png.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-mdpi\\plus_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_dairy_icon_round.png.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-xxhdpi\\dairy_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_fruit_icon_round.png.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-xxhdpi\\fruit_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_back.png.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-xxhdpi\\back.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_veggie_icon.png.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-mdpi\\veggie_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\drawable_home_icon_foreground.xml.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\drawable\\home_icon_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_veggie_icon_foreground.png.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-xxxhdpi\\veggie_icon_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_other_icon_foreground.png.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-xxxhdpi\\other_icon_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_fats_icon_foreground.png.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-xxhdpi\\fats_icon_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_dairy_icon.png.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-xxhdpi\\dairy_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_plus_icon_round.png.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-xhdpi\\plus_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_fruit_icon.png.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-xxhdpi\\fruit_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_fats_icon_round.png.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-hdpi\\fats_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_left_button.xml.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\drawable-v24\\left_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_plus_icon.png.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-xxxhdpi\\plus_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_fruit_icon.xml.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-anydpi-v26\\fruit_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_other_icon.png.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-xhdpi\\other_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_other_icon_round.png.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-xxxhdpi\\other_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_back_round.png.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-mdpi\\back_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_fruit_icon.png.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-xxxhdpi\\fruit_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\drawable_settings_foreground.xml.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\drawable\\settings_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_other_icon_round.png.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-hdpi\\other_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_middle_button.xml.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\drawable-v24\\middle_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_dairy_icon_round.png.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-xxxhdpi\\dairy_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_meat_icon_round.png.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-mdpi\\meat_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\layout_frag_view_recipe.xml.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\layout\\frag_view_recipe.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\drawable_plus_icon_background.xml.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\drawable\\plus_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_fats_icon_round.png.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-xxxhdpi\\fats_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_other_icon_foreground.png.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-xhdpi\\other_icon_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\layout_frag_my_fridge.xml.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\layout\\frag_my_fridge.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_settings.png.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-xxxhdpi\\settings.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_fats_icon.png.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-xxhdpi\\fats_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_bottom_button.xml.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\drawable-v24\\bottom_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_fruit_icon.png.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-hdpi\\fruit_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_plus_icon.png.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-xhdpi\\plus_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_dairy_icon.png.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-hdpi\\dairy_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_veggie_icon_round.png.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-xhdpi\\veggie_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_home_icon_round.png.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-xhdpi\\home_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_back_round.png.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-xxxhdpi\\back_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_plus_icon.png.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-hdpi\\plus_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\xml_preferences.xml.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\xml\\preferences.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_home_icon_round.png.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-xxhdpi\\home_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_veggie_icon_round.png.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-hdpi\\veggie_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_fruit_icon.png.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-mdpi\\fruit_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\layout_frag_gen_recipe.xml.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\layout\\frag_gen_recipe.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_dairy_icon_foreground.png.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-hdpi\\dairy_icon_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_fruit_icon_round.xml.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-anydpi-v26\\fruit_icon_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_dairy_icon.png.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-mdpi\\dairy_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_plus_icon.xml.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-anydpi-v26\\plus_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_meat_icon_round.png.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-xxhdpi\\meat_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_back.png.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-xhdpi\\back.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_fruit_icon_foreground.png.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-xxhdpi\\fruit_icon_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\transition_slide_right.xml.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\transition\\slide_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_back_round.xml.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-anydpi-v26\\back_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_meat_icon.png.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-xxxhdpi\\meat_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_fruit_icon_foreground.png.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-xxxhdpi\\fruit_icon_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_dairy_icon_foreground.png.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-mdpi\\dairy_icon_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_settings_round.png.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-xxhdpi\\settings_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\drawable_selected.xml.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\drawable\\selected.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_veggie_icon.png.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-hdpi\\veggie_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\drawable_plus_icon_foreground.xml.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\drawable\\plus_icon_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_settings.png.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-mdpi\\settings.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_dairy_icon_round.png.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-mdpi\\dairy_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_fats_icon_round.xml.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-anydpi-v26\\fats_icon_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_veggie_icon_foreground.png.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-xhdpi\\veggie_icon_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_fats_icon_foreground.png.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-xhdpi\\fats_icon_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_veggie_icon_foreground.png.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-hdpi\\veggie_icon_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_home_icon.png.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-mdpi\\home_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_meat_icon.png.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-xhdpi\\meat_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_meat_icon_round.png.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-xhdpi\\meat_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_back.xml.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-anydpi-v26\\back.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_meat_icon.png.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-hdpi\\meat_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\drawable_dairy_icon_background.xml.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\drawable\\dairy_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_meat_icon_foreground.png.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-xhdpi\\meat_icon_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_settings_round.png.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-hdpi\\settings_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_right_button.xml.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\drawable-v24\\right_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_veggie_icon.png.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-xxxhdpi\\veggie_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_settings.xml.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-anydpi-v26\\settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_plus_icon_round.png.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-hdpi\\plus_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_settings.png.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-xhdpi\\settings.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_fats_icon_round.png.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-xxhdpi\\fats_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_veggie_icon.png.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-xhdpi\\veggie_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_fats_icon_foreground.png.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-mdpi\\fats_icon_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_other_icon.png.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-xxhdpi\\other_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_fats_icon_round.png.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-xhdpi\\fats_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_fruit_icon_foreground.png.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-xhdpi\\fruit_icon_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_home_icon.png.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-hdpi\\home_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_fruit_icon_round.png.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-mdpi\\fruit_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_back_round.png.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-xxhdpi\\back_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_home_icon_round.xml.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-anydpi-v26\\home_icon_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_back_round.png.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-hdpi\\back_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\layout_frag_add_recipe.xml.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\layout\\frag_add_recipe.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_dairy_icon_round.png.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-xhdpi\\dairy_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_veggie_icon_foreground.png.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-xxhdpi\\veggie_icon_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_other_icon_foreground.png.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-hdpi\\other_icon_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_fruit_icon_round.png.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-xhdpi\\fruit_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_dairy_icon.png.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-xxxhdpi\\dairy_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\drawable_settings_background.xml.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\drawable\\settings_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_other_icon.png.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-hdpi\\other_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_dairy_icon_round.png.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-hdpi\\dairy_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_dairy_icon.xml.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-anydpi-v26\\dairy_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_fruit_icon_round.png.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-hdpi\\fruit_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_meat_icon_foreground.png.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-mdpi\\meat_icon_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_fruit_icon.png.flat",
+        "source": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\src\\main\\res\\mipmap-xhdpi\\fruit_icon.png"
+    }
+]

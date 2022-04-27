@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="yellow">#E1CB71</color>
+    <color name="bronze">#BE833B</color>
+    <color name="metallic">#867675</color>
+    <color name="grape">#9E93AE</color>
+    <color name="grey">#918789</color>
+
+    <color name="pink">#C8AFA0</color>
+    <color name="blue">#ABD5FD</color>
+    <color name="grullo">#ADA499</color>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+</resources>

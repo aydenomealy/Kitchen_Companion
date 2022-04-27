@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:paddingBottom="12dp"
+        android:text="@string/add_recipe"
+        android:textSize="50sp"
+        android:textColor="?attr/text_color"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <LinearLayout
+        android:id="@+id/linearLayout"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="32dp"
+        android:layout_marginTop="30dp"
+        android:layout_marginEnd="32dp"
+        android:orientation="vertical"
+        android:background="?attr/card_background"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView2">
+
+        <EditText
+            android:id="@+id/title"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:textColor="?attr/text_color"
+            android:autofillHints=""
+            android:hint="@string/recipe_title"
+            android:inputType="text" />
+
+        <EditText
+            android:id="@+id/video"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:textColor="?attr/text_color"
+            android:layout_margin="5dp"
+            android:autofillHints=""
+            android:hint="@string/video_link"
+            android:inputType="text" />
+
+        <EditText
+            android:id="@+id/servings"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:textColor="?attr/text_color"
+            android:layout_margin="5dp"
+            android:autofillHints=""
+            android:hint="@string/number_of_servings"
+            android:inputType="number" />
+
+        <EditText
+            android:id="@+id/directions"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:textColor="?attr/text_color"
+            android:layout_margin="5dp"
+            android:autofillHints=""
+            android:hint="@string/directions"
+            android:inputType="text" />
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/recycle"
+            android:layout_width="fill_parent"
+            android:layout_height="150dp"
+            android:layout_marginTop="16dp"
+            android:layout_marginBottom="16dp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/add_ingredient"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:textColor="?attr/text_color"
+            android:text="@string/add_ingredient" />
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/finish"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:textColor="?attr/text_color"
+            android:text="@string/finish" />
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
