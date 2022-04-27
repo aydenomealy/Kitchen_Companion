@@ -48,7 +48,7 @@ public class MyFridgeFrag extends Fragment {
         SharedPreferences sharedPreferences = PreferenceManager.getDefaultSharedPreferences(getContext());
         String name = sharedPreferences.getString("name", "");
 
-        if(name != "") {
+        if(!name.equals("")) {
             name = name.concat("'s Fridge");
             ((TextView) requireView().findViewById(R.id.textView)).setText(name);
         }
@@ -68,7 +68,7 @@ public class MyFridgeFrag extends Fragment {
         fridgeViewModel.getAllFridge().observe(getViewLifecycleOwner(), adapter::setFridge);
 
         //TODO fix deleted item being highlighted after delete
-        ((Button) requireView().findViewById(R.id.delete)).setOnClickListener(v -> {
+        requireView().findViewById(R.id.delete).setOnClickListener(v -> {
             for (Fridge fridge : foodIds) {
                 FridgeDatabase.delete(fridge);
             }
@@ -77,15 +77,13 @@ public class MyFridgeFrag extends Fragment {
         });
 
 
-        ((Button) requireView().findViewById(R.id.generate)).setOnClickListener(v -> {
+        requireView().findViewById(R.id.generate).setOnClickListener(v -> {
             if (foodIds.size() != 0)
                 onMessageListener.sendMessageFridge(foodIds);
             else
                 Toast.makeText(getActivity(), "Select at least one item", Toast.LENGTH_SHORT).show();
         });
     }
-
-
 
     @Override
     public void onAttach(@NonNull Context context) {

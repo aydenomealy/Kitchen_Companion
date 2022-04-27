@@ -66,6 +66,7 @@ public class MainActivity extends AppCompatActivity implements MyFridgeFrag.OnMe
         });
 
         findViewById(R.id.settings).setOnClickListener(v -> {
+            finish();
             startActivity(new Intent(this, SettingsActivity.class));
         });
 

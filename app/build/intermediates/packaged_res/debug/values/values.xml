@@ -45,17 +45,17 @@
     <string name="vegetables">Vegetables</string>
     <string name="video_link">Video link (optional)</string>
     <style name="Theme.Light" parent="Theme.MaterialComponents.DayNight.NoActionBar">
-        
+        <!-- Primary brand color. -->
         <item name="colorPrimary">@color/yellow</item>
         <item name="colorPrimaryVariant">@color/pink</item>
         <item name="colorOnPrimary">@color/black</item>
-        
+        <!-- Secondary brand color. -->
         <item name="colorSecondary">@color/blue</item>
         <item name="colorSecondaryVariant">@color/grullo</item>
         <item name="colorOnSecondary">@color/black</item>
-        
+        <!-- Status bar color. -->
         <item name="android:statusBarColor" ns1:targetApi="l">?attr/colorPrimaryVariant</item>
-        
+        <!-- Customize your theme here. -->
         <item name="background_picture">@drawable/light_mode</item>
         <item name="card_background">@drawable/lightmode_background</item>
         <item name="text_color">#202020</item>

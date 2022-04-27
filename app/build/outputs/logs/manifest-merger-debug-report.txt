@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Ayden\Desktop\School\CMPSC475\KitchenCompanion\app\src\main\AndroidManifest.xml:2:1-28:12
-INJECTED from C:\Users\Ayden\Desktop\School\CMPSC475\KitchenCompanion\app\src\main\AndroidManifest.xml:2:1-28:12
-INJECTED from C:\Users\Ayden\Desktop\School\CMPSC475\KitchenCompanion\app\src\main\AndroidManifest.xml:2:1-28:12
-INJECTED from C:\Users\Ayden\Desktop\School\CMPSC475\KitchenCompanion\app\src\main\AndroidManifest.xml:2:1-28:12
+ADDED from C:\Users\Ayden\Desktop\School\CMPSC475\KitchenCompanion\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\Ayden\Desktop\School\CMPSC475\KitchenCompanion\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\Ayden\Desktop\School\CMPSC475\KitchenCompanion\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\Ayden\Desktop\School\CMPSC475\KitchenCompanion\app\src\main\AndroidManifest.xml:2:1-29:12
 MERGED from [com.google.android.material:material:1.5.0] C:\Users\Ayden\.gradle\caches\transforms-3\3b185c71f62a8e5ce74dbacb5af9ac95\transformed\material-1.5.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] C:\Users\Ayden\.gradle\caches\transforms-3\c051c6e0d169f7cea8b828b6e2e10046\transformed\constraintlayout-2.1.3\AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.preference:preference:1.1.1] C:\Users\Ayden\.gradle\caches\transforms-3\cb172bb82ab9df74bcbdfc18d55bc9b9\transformed\preference-1.1.1\AndroidManifest.xml:17:1-24:12
@@ -60,20 +60,20 @@ MERGED from [androidx.print:print:1.0.0] C:\Users\Ayden\.gradle\caches\transform
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Ayden\.gradle\caches\transforms-3\b5b9a8ffe71c29ead418b5833555d33b\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] C:\Users\Ayden\.gradle\caches\transforms-3\0c56d297b0c111274292142cfab35623\transformed\protolite-well-known-types-18.0.0\AndroidManifest.xml:2:1-11:12
 MERGED from [io.grpc:grpc-android:1.44.1] C:\Users\Ayden\.gradle\caches\transforms-3\1f090d05d10d542834632a524fde4f69\transformed\grpc-android-1.44.1\AndroidManifest.xml:2:1-11:12
-INJECTED from C:\Users\Ayden\Desktop\School\CMPSC475\KitchenCompanion\app\src\main\AndroidManifest.xml:2:1-28:12
-INJECTED from C:\Users\Ayden\Desktop\School\CMPSC475\KitchenCompanion\app\src\main\AndroidManifest.xml:2:1-28:12
-INJECTED from C:\Users\Ayden\Desktop\School\CMPSC475\KitchenCompanion\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\Ayden\Desktop\School\CMPSC475\KitchenCompanion\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\Ayden\Desktop\School\CMPSC475\KitchenCompanion\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\Ayden\Desktop\School\CMPSC475\KitchenCompanion\app\src\main\AndroidManifest.xml:2:1-29:12
 	package
 		ADDED from C:\Users\Ayden\Desktop\School\CMPSC475\KitchenCompanion\app\src\main\AndroidManifest.xml:3:5-43
 		INJECTED from C:\Users\Ayden\Desktop\School\CMPSC475\KitchenCompanion\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\Ayden\Desktop\School\CMPSC475\KitchenCompanion\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\Ayden\Desktop\School\CMPSC475\KitchenCompanion\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Ayden\Desktop\School\CMPSC475\KitchenCompanion\app\src\main\AndroidManifest.xml:2:1-28:12
+		ADDED from C:\Users\Ayden\Desktop\School\CMPSC475\KitchenCompanion\app\src\main\AndroidManifest.xml:2:1-29:12
 		INJECTED from C:\Users\Ayden\Desktop\School\CMPSC475\KitchenCompanion\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from C:\Users\Ayden\Desktop\School\CMPSC475\KitchenCompanion\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Ayden\Desktop\School\CMPSC475\KitchenCompanion\app\src\main\AndroidManifest.xml:2:1-28:12
+		ADDED from C:\Users\Ayden\Desktop\School\CMPSC475\KitchenCompanion\app\src\main\AndroidManifest.xml:2:1-29:12
 		INJECTED from C:\Users\Ayden\Desktop\School\CMPSC475\KitchenCompanion\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\Ayden\Desktop\School\CMPSC475\KitchenCompanion\app\src\main\AndroidManifest.xml:2:11-69
@@ -86,7 +86,7 @@ MERGED from [com.google.firebase:firebase-firestore:24.0.2] C:\Users\Ayden\.grad
 	android:name
 		ADDED from C:\Users\Ayden\Desktop\School\CMPSC475\KitchenCompanion\app\src\main\AndroidManifest.xml:5:22-64
 application
-ADDED from C:\Users\Ayden\Desktop\School\CMPSC475\KitchenCompanion\app\src\main\AndroidManifest.xml:6:5-26:19
+ADDED from C:\Users\Ayden\Desktop\School\CMPSC475\KitchenCompanion\app\src\main\AndroidManifest.xml:6:5-27:19
 MERGED from [com.google.android.material:material:1.5.0] C:\Users\Ayden\.gradle\caches\transforms-3\3b185c71f62a8e5ce74dbacb5af9ac95\transformed\material-1.5.0\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.5.0] C:\Users\Ayden\.gradle\caches\transforms-3\3b185c71f62a8e5ce74dbacb5af9ac95\transformed\material-1.5.0\AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] C:\Users\Ayden\.gradle\caches\transforms-3\c051c6e0d169f7cea8b828b6e2e10046\transformed\constraintlayout-2.1.3\AndroidManifest.xml:9:5-20
@@ -129,14 +129,14 @@ MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\Ayden\.gradle\cach
 		ADDED from C:\Users\Ayden\Desktop\School\CMPSC475\KitchenCompanion\app\src\main\AndroidManifest.xml:8:9-43
 	android:allowBackup
 		ADDED from C:\Users\Ayden\Desktop\School\CMPSC475\KitchenCompanion\app\src\main\AndroidManifest.xml:7:9-35
-	android:theme
-		ADDED from C:\Users\Ayden\Desktop\School\CMPSC475\KitchenCompanion\app\src\main\AndroidManifest.xml:12:9-42
 activity#com.example.kitchencompanion.MainActivity
-ADDED from C:\Users\Ayden\Desktop\School\CMPSC475\KitchenCompanion\app\src\main\AndroidManifest.xml:13:9-21:20
+ADDED from C:\Users\Ayden\Desktop\School\CMPSC475\KitchenCompanion\app\src\main\AndroidManifest.xml:12:9-21:20
 	android:exported
 		ADDED from C:\Users\Ayden\Desktop\School\CMPSC475\KitchenCompanion\app\src\main\AndroidManifest.xml:15:13-36
+	android:theme
+		ADDED from C:\Users\Ayden\Desktop\School\CMPSC475\KitchenCompanion\app\src\main\AndroidManifest.xml:14:13-46
 	android:name
-		ADDED from C:\Users\Ayden\Desktop\School\CMPSC475\KitchenCompanion\app\src\main\AndroidManifest.xml:14:13-69
+		ADDED from C:\Users\Ayden\Desktop\School\CMPSC475\KitchenCompanion\app\src\main\AndroidManifest.xml:13:13-69
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
 ADDED from C:\Users\Ayden\Desktop\School\CMPSC475\KitchenCompanion\app\src\main\AndroidManifest.xml:16:13-20:29
 action#android.intent.action.MAIN
@@ -148,9 +148,11 @@ ADDED from C:\Users\Ayden\Desktop\School\CMPSC475\KitchenCompanion\app\src\main\
 	android:name
 		ADDED from C:\Users\Ayden\Desktop\School\CMPSC475\KitchenCompanion\app\src\main\AndroidManifest.xml:19:27-74
 activity#com.example.kitchencompanion.SettingsActivity
-ADDED from C:\Users\Ayden\Desktop\School\CMPSC475\KitchenCompanion\app\src\main\AndroidManifest.xml:22:9-25:20
+ADDED from C:\Users\Ayden\Desktop\School\CMPSC475\KitchenCompanion\app\src\main\AndroidManifest.xml:22:9-26:20
 	android:windowSoftInputMode
-		ADDED from C:\Users\Ayden\Desktop\School\CMPSC475\KitchenCompanion\app\src\main\AndroidManifest.xml:24:13-52
+		ADDED from C:\Users\Ayden\Desktop\School\CMPSC475\KitchenCompanion\app\src\main\AndroidManifest.xml:25:13-52
+	android:theme
+		ADDED from C:\Users\Ayden\Desktop\School\CMPSC475\KitchenCompanion\app\src\main\AndroidManifest.xml:24:13-46
 	android:name
 		ADDED from C:\Users\Ayden\Desktop\School\CMPSC475\KitchenCompanion\app\src\main\AndroidManifest.xml:23:13-73
 uses-sdk

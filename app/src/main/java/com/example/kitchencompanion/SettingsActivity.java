@@ -1,5 +1,6 @@
 package com.example.kitchencompanion;
 
+import android.content.Intent;
 import android.os.Bundle;
 
 import androidx.annotation.Nullable;
@@ -14,7 +15,10 @@ public class SettingsActivity extends AppCompatActivity {
 
         setSupportActionBar(findViewById(R.id.toolbar));
 
-        findViewById(R.id.imageView2).setOnClickListener(v -> finish());
+        findViewById(R.id.imageView2).setOnClickListener(v -> {
+            finish();
+            startActivity(new Intent(this, MainActivity.class));
+        });
 
         getSupportFragmentManager()
                 .beginTransaction()
