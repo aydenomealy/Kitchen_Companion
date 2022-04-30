@@ -11,7 +11,7 @@ import com.google.android.material.bottomnavigation.BottomNavigationView;
 
 import java.util.ArrayList;
 
-public class MainActivity extends AppCompatActivity implements MyFridgeFrag.OnMessageFridge, GenerateRecipeFrag.OnMessageGen {
+public class MainActivity extends AppCompatActivity implements MyFridgeFrag.OnMessageFridge{
     BottomNavigationView bNavView;
     FragmentManager fragmentManager = getSupportFragmentManager();
     int currentFrag;
@@ -82,32 +82,14 @@ public class MainActivity extends AppCompatActivity implements MyFridgeFrag.OnMe
     @Override
     public void sendMessageFridge(ArrayList<Fridge> message) {
         ArrayList<String> foods = new ArrayList<>();
-        Bundle bundle = new Bundle();
 
         for(Fridge fridge : message)
             foods.add(fridge.item);
 
-        bundle.putStringArrayList("list", foods);
-        GenerateRecipeFrag frag = new GenerateRecipeFrag();
-        frag.setArguments(bundle);
-
-        fragmentManager.beginTransaction()
-                .setReorderingAllowed(true)
-                .replace(R.id.frag_view, frag)
-                .addToBackStack("generate")
-                .commit();
-    }
-
-    @Override
-    public void sendMessageGen(Bundle message) {
-        ViewRecipeFrag frag = new ViewRecipeFrag();
-        frag.setArguments(message);
-
-        fragmentManager.beginTransaction()
-                .setReorderingAllowed(true)
-                .replace(R.id.frag_view, frag)
-                .addToBackStack("view")
-                .commit();
+        Intent intent = new Intent(this, FragHolderActivity.class);
+        intent.putStringArrayListExtra("list", foods);
+        finish();
+        startActivity(intent);
     }
 
     public void addToRecipe() {

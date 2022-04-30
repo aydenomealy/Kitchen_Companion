@@ -100,7 +100,9 @@ int attr actionOverflowMenuStyle 0x7f030022
 int attr actionProviderClass 0x7f030023
 int attr actionTextColorAlpha 0x7f030024
 int attr actionViewClass 0x7f030025
+int attr activityAction 0x7f03048e
 int attr activityChooserViewStyle 0x7f030026
+int attr activityName 0x7f03048f
 int attr adjustable 0x7f030027
 int attr alertDialogButtonGroupStyle 0x7f030028
 int attr alertDialogCenterButtons 0x7f030029
@@ -113,6 +115,7 @@ int attr allowStacking 0x7f03002f
 int attr alpha 0x7f030030
 int attr alphabeticModifiers 0x7f030031
 int attr altSrc 0x7f030032
+int attr alwaysExpand 0x7f030490
 int attr animateCircleAngleTo 0x7f030033
 int attr animateRelativeTo 0x7f030034
 int attr animationMode 0x7f030035
@@ -262,6 +265,7 @@ int attr circularflow_defaultAngle 0x7f0300c2
 int attr circularflow_defaultRadius 0x7f0300c3
 int attr circularflow_radiusInDP 0x7f0300c4
 int attr circularflow_viewCenter 0x7f0300c5
+int attr clearTop 0x7f030491
 int attr clearsTag 0x7f0300c6
 int attr clickAction 0x7f0300c7
 int attr clockFaceBackgroundColor 0x7f0300c8
@@ -497,6 +501,8 @@ int attr fastScrollHorizontalThumbDrawable 0x7f0301ad
 int attr fastScrollHorizontalTrackDrawable 0x7f0301ae
 int attr fastScrollVerticalThumbDrawable 0x7f0301af
 int attr fastScrollVerticalTrackDrawable 0x7f0301b0
+int attr finishPrimaryWithSecondary 0x7f030492
+int attr finishSecondaryWithPrimary 0x7f030493
 int attr firstBaselineToTopHeight 0x7f0301b1
 int attr floatingActionButtonLargePrimaryStyle 0x7f0301b2
 int attr floatingActionButtonLargeSecondaryStyle 0x7f0301b3
@@ -878,6 +884,7 @@ int attr percentY 0x7f03032a
 int attr perpendicularPath_percent 0x7f03032b
 int attr persistent 0x7f03032c
 int attr pivotAnchor 0x7f03032d
+int attr placeholderActivityName 0x7f030494
 int attr placeholderText 0x7f03032e
 int attr placeholderTextAppearance 0x7f03032f
 int attr placeholderTextColor 0x7f030330
@@ -890,6 +897,7 @@ int attr popupWindowStyle 0x7f030336
 int attr positiveButtonText 0x7f030337
 int attr preferenceCategoryStyle 0x7f030338
 int attr preferenceCategoryTitleTextAppearance 0x7f030339
+int attr preferenceCategoryTitleTextColor 0x7f030495
 int attr preferenceFragmentCompatStyle 0x7f03033a
 int attr preferenceFragmentListStyle 0x7f03033b
 int attr preferenceFragmentStyle 0x7f03033c
@@ -902,6 +910,7 @@ int attr prefixTextAppearance 0x7f030342
 int attr prefixTextColor 0x7f030343
 int attr preserveIconSpacing 0x7f030344
 int attr pressedTranslationZ 0x7f030345
+int attr primaryActivityName 0x7f030496
 int attr progressBarPadding 0x7f030346
 int attr progressBarStyle 0x7f030347
 int attr quantizeMotionInterpolator 0x7f030348
@@ -938,6 +947,8 @@ int attr scrimVisibleHeightTrigger 0x7f030366
 int attr searchHintIcon 0x7f030367
 int attr searchIcon 0x7f030368
 int attr searchViewStyle 0x7f030369
+int attr secondaryActivityAction 0x7f030497
+int attr secondaryActivityName 0x7f030498
 int attr seekBarIncrement 0x7f03036a
 int attr seekBarPreferenceStyle 0x7f03036b
 int attr seekBarStyle 0x7f03036c
@@ -977,6 +988,10 @@ int attr spanCount 0x7f03038d
 int attr spinBars 0x7f03038e
 int attr spinnerDropDownItemStyle 0x7f03038f
 int attr spinnerStyle 0x7f030390
+int attr splitLayoutDirection 0x7f030499
+int attr splitMinSmallestWidth 0x7f03049a
+int attr splitMinWidth 0x7f03049b
+int attr splitRatio 0x7f03049c
 int attr splitTrack 0x7f030391
 int attr springBoundary 0x7f030392
 int attr springDamping 0x7f030393
@@ -2434,6 +2449,8 @@ int dimen preference_icon_minWidth 0x7f060238
 int dimen preference_seekbar_padding_horizontal 0x7f060239
 int dimen preference_seekbar_padding_vertical 0x7f06023a
 int dimen preference_seekbar_value_minWidth 0x7f06023b
+int dimen preferences_detail_width 0x7f060251
+int dimen preferences_header_width 0x7f060252
 int dimen test_dimen 0x7f06023c
 int dimen test_mtrl_calendar_day_cornerSize 0x7f06023d
 int dimen test_navigation_bar_active_item_max_width 0x7f06023e
@@ -2742,6 +2759,7 @@ int id aligned 0x7f08004d
 int id all 0x7f08004e
 int id allStates 0x7f08004f
 int id always 0x7f080050
+int id androidx_window_activity_scope 0x7f08021b
 int id animateToEnd 0x7f080051
 int id animateToStart 0x7f080052
 int id antiClockwise 0x7f080053
@@ -2930,6 +2948,8 @@ int id linearLayout2 0x7f080107
 int id listMode 0x7f080108
 int id list_item 0x7f080109
 int id live_video_indicator 0x7f08010a
+int id locale 0x7f08021c
+int id ltr 0x7f08021d
 int id masked 0x7f08010b
 int id match_constraint 0x7f08010c
 int id match_parent 0x7f08010d
@@ -3029,6 +3049,9 @@ int id pin 0x7f08016a
 int id play_pause_button 0x7f08016b
 int id position 0x7f08016c
 int id postLayout 0x7f08016d
+int id preferences_detail 0x7f08021e
+int id preferences_header 0x7f08021f
+int id preferences_sliding_pane_layout 0x7f080220
 int id progress 0x7f08016e
 int id progress_circular 0x7f08016f
 int id progress_horizontal 0x7f080170
@@ -3046,6 +3069,7 @@ int id right_side 0x7f08017b
 int id root 0x7f08017c
 int id rounded 0x7f08017d
 int id row_index_key 0x7f08017e
+int id rtl 0x7f080221
 int id save_non_transition_alpha 0x7f08017f
 int id save_overlay_view 0x7f080180
 int id sawtooth 0x7f080181
@@ -3244,6 +3268,8 @@ int integer mtrl_tab_indicator_anim_duration_ms 0x7f090029
 int integer mtrl_view_gone 0x7f09002a
 int integer mtrl_view_invisible 0x7f09002b
 int integer mtrl_view_visible 0x7f09002c
+int integer preferences_detail_pane_weight 0x7f09002f
+int integer preferences_header_pane_weight 0x7f090030
 int integer show_password_duration 0x7f09002d
 int integer status_bar_notification_info_maxnum 0x7f09002e
 int interpolator btn_checkbox_checked_mtrl_animation_interpolator_0 0x7f0a0000
@@ -3285,6 +3311,7 @@ int layout abc_search_dropdown_item_icons_2line 0x7f0b0018
 int layout abc_search_view 0x7f0b0019
 int layout abc_select_dialog_material 0x7f0b001a
 int layout abc_tooltip 0x7f0b001b
+int layout activity_holder 0x7f0b0094
 int layout activity_main 0x7f0b001c
 int layout activity_settings 0x7f0b001d
 int layout ayp_default_player_ui 0x7f0b001e
@@ -3308,6 +3335,7 @@ int layout design_navigation_menu_item 0x7f0b002f
 int layout design_text_input_end_icon 0x7f0b0030
 int layout design_text_input_start_icon 0x7f0b0031
 int layout expand_button 0x7f0b0032
+int layout food_item 0x7f0b0095
 int layout frag_add_food 0x7f0b0033
 int layout frag_add_recipe 0x7f0b0034
 int layout frag_gen_recipe 0x7f0b0035
@@ -3909,6 +3937,7 @@ int style Base_Widget_MaterialComponents_Snackbar 0x7f11010d
 int style Base_Widget_MaterialComponents_TextInputEditText 0x7f11010e
 int style Base_Widget_MaterialComponents_TextInputLayout 0x7f11010f
 int style Base_Widget_MaterialComponents_TextView 0x7f110110
+int style BasePreferenceThemeOverlay 0x7f11041b
 int style CardView 0x7f110111
 int style CardView_Dark 0x7f110112
 int style CardView_Light 0x7f110113
@@ -4732,6 +4761,11 @@ int styleable ActionMode_titleTextStyle 5
 int[] styleable ActivityChooserView { 0x7f030193, 0x7f030214 }
 int styleable ActivityChooserView_expandActivityOverflowButtonDrawable 0
 int styleable ActivityChooserView_initialActivityCount 1
+int[] styleable ActivityFilter { 0x7f03048e, 0x7f03048f }
+int styleable ActivityFilter_activityAction 0
+int styleable ActivityFilter_activityName 1
+int[] styleable ActivityRule { 0x7f030490 }
+int styleable ActivityRule_alwaysExpand 0
 int[] styleable AlertDialog { 0x010100f2, 0x7f030082, 0x7f030083, 0x7f030294, 0x7f030295, 0x7f0302fd, 0x7f030382, 0x7f030384 }
 int styleable AlertDialog_android_layout 0
 int styleable AlertDialog_buttonIconDimen 1
@@ -6344,7 +6378,7 @@ int styleable PreferenceImageView_android_maxWidth 0
 int styleable PreferenceImageView_android_maxHeight 1
 int styleable PreferenceImageView_maxHeight 2
 int styleable PreferenceImageView_maxWidth 3
-int[] styleable PreferenceTheme { 0x7f03009c, 0x7f030151, 0x7f030171, 0x7f030176, 0x7f030338, 0x7f030339, 0x7f03033a, 0x7f03033b, 0x7f03033c, 0x7f03033d, 0x7f03033e, 0x7f03033f, 0x7f030340, 0x7f03036b, 0x7f0303be, 0x7f0303bf }
+int[] styleable PreferenceTheme { 0x7f03009c, 0x7f030151, 0x7f030171, 0x7f030176, 0x7f030338, 0x7f030339, 0x7f03033a, 0x7f03033b, 0x7f03033c, 0x7f03033d, 0x7f03033e, 0x7f03033f, 0x7f030340, 0x7f03036b, 0x7f0303be, 0x7f0303bf, 0x7f030495 }
 int styleable PreferenceTheme_checkBoxPreferenceStyle 0
 int styleable PreferenceTheme_dialogPreferenceStyle 1
 int styleable PreferenceTheme_dropdownPreferenceStyle 2
@@ -6361,6 +6395,7 @@ int styleable PreferenceTheme_preferenceTheme 12
 int styleable PreferenceTheme_seekBarPreferenceStyle 13
 int styleable PreferenceTheme_switchPreferenceCompatStyle 14
 int styleable PreferenceTheme_switchPreferenceStyle 15
+int styleable PreferenceTheme_preferenceCategoryTitleTextColor 16
 int[] styleable PropertySet { 0x010100dc, 0x0101031f, 0x7f03026c, 0x7f0302f7, 0x7f030474 }
 int styleable PropertySet_android_visibility 0
 int styleable PropertySet_android_alpha 1
@@ -6487,6 +6522,24 @@ int styleable Spinner_android_popupBackground 1
 int styleable Spinner_android_prompt 2
 int styleable Spinner_android_dropDownWidth 3
 int styleable Spinner_popupTheme 4
+int[] styleable SplitPairFilter { 0x7f030496, 0x7f030497, 0x7f030498 }
+int styleable SplitPairFilter_primaryActivityName 0
+int styleable SplitPairFilter_secondaryActivityAction 1
+int styleable SplitPairFilter_secondaryActivityName 2
+int[] styleable SplitPairRule { 0x7f030491, 0x7f030492, 0x7f030493, 0x7f030499, 0x7f03049a, 0x7f03049b, 0x7f03049c }
+int styleable SplitPairRule_clearTop 0
+int styleable SplitPairRule_finishPrimaryWithSecondary 1
+int styleable SplitPairRule_finishSecondaryWithPrimary 2
+int styleable SplitPairRule_splitLayoutDirection 3
+int styleable SplitPairRule_splitMinSmallestWidth 4
+int styleable SplitPairRule_splitMinWidth 5
+int styleable SplitPairRule_splitRatio 6
+int[] styleable SplitPlaceholderRule { 0x7f030494, 0x7f030499, 0x7f03049a, 0x7f03049b, 0x7f03049c }
+int styleable SplitPlaceholderRule_placeholderActivityName 0
+int styleable SplitPlaceholderRule_splitLayoutDirection 1
+int styleable SplitPlaceholderRule_splitMinSmallestWidth 2
+int styleable SplitPlaceholderRule_splitMinWidth 3
+int styleable SplitPlaceholderRule_splitRatio 4
 int[] styleable State { 0x010100d0, 0x7f03010f }
 int styleable State_android_id 0
 int styleable State_constraints 1

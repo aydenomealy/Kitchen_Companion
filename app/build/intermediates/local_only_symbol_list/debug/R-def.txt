@@ -74,8 +74,10 @@ id toolbar
 id veggie
 id video
 id youtube
+layout activity_holder
 layout activity_main
 layout activity_settings
+layout food_item
 layout frag_add_food
 layout frag_add_recipe
 layout frag_gen_recipe

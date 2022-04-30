@@ -70,8 +70,8 @@ public abstract class FridgeDatabase extends RoomDatabase {
         (new Thread(() -> INSTANCE.fridgeDAO().insert(fridge))).start();
     }
 
-    public static void delete(int jokeId) {
-        (new Thread(() -> INSTANCE.fridgeDAO().delete(jokeId))).start();
+    public static void delete(int fridgeId) {
+        (new Thread(() -> INSTANCE.fridgeDAO().delete(fridgeId))).start();
     }
     public static void delete(Fridge fridge) {
         (new Thread(() -> INSTANCE.fridgeDAO().delete(fridge))).start();

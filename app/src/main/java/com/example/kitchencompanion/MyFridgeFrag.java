@@ -17,6 +17,7 @@ import androidx.annotation.Nullable;
 import androidx.fragment.app.Fragment;
 import androidx.lifecycle.ViewModelProvider;
 import androidx.preference.PreferenceManager;
+import androidx.recyclerview.widget.ItemTouchHelper;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
@@ -40,6 +41,7 @@ public class MyFridgeFrag extends Fragment {
     private static final ArrayList<Fridge> foodIds = new ArrayList<>();
 
     OnMessageFridge onMessageListener;
+    FridgeListAdapter adapter;
 
     @Override
     public void onViewCreated(@NonNull View view, @Nullable Bundle savedInstanceState) {
@@ -60,14 +62,14 @@ public class MyFridgeFrag extends Fragment {
 
 
         RecyclerView recyclerView = requireView().findViewById(R.id.recycle);
-        FridgeListAdapter adapter = new FridgeListAdapter(view.getContext());
+        new ItemTouchHelper(itemTouchHelper).attachToRecyclerView(recyclerView);
+        adapter = new FridgeListAdapter(view.getContext());
         recyclerView.setAdapter(adapter);
         recyclerView.setLayoutManager(new LinearLayoutManager(view.getContext()));
 
         FridgeViewModel fridgeViewModel = new ViewModelProvider(this).get(FridgeViewModel.class);
         fridgeViewModel.getAllFridge().observe(getViewLifecycleOwner(), adapter::setFridge);
 
-        //TODO fix deleted item being highlighted after delete
         requireView().findViewById(R.id.delete).setOnClickListener(v -> {
             for (Fridge fridge : foodIds) {
                 FridgeDatabase.delete(fridge);
@@ -78,8 +80,10 @@ public class MyFridgeFrag extends Fragment {
 
 
         requireView().findViewById(R.id.generate).setOnClickListener(v -> {
-            if (foodIds.size() != 0)
+            if (foodIds.size() != 0) {
                 onMessageListener.sendMessageFridge(foodIds);
+                foodIds.clear();
+            }
             else
                 Toast.makeText(getActivity(), "Select at least one item", Toast.LENGTH_SHORT).show();
         });
@@ -103,7 +107,7 @@ public class MyFridgeFrag extends Fragment {
             private final ImageView imageView;
             private final View root;
 
-            private Fridge fridge;
+            public Fridge fridge;
 
             private FridgeViewHolder(View itemView) {
                 super(itemView);
@@ -174,6 +178,22 @@ public class MyFridgeFrag extends Fragment {
             }
         }
 
+        @Override
+        public void onViewAttachedToWindow(@NonNull FridgeViewHolder holder) {
+            super.onViewAttachedToWindow(holder);
+            if (foodIds.contains(holder.fridge)) {
+                holder.root.setBackgroundResource(R.drawable.selected);
+            }
+        }
+
+        @Override
+        public void onViewDetachedFromWindow(@NonNull FridgeViewHolder holder) {
+            super.onViewDetachedFromWindow(holder);
+            if (!foodIds.contains(holder.fridge)) {
+                holder.root.setBackgroundResource(R.drawable.lightmode_background);
+            }
+        }
+
         void setFridge(List<Fridge> items) {
             this.fridgeList = items;
             notifyDataSetChanged();
@@ -186,4 +206,16 @@ public class MyFridgeFrag extends Fragment {
             else return 0;
         }
     }
+    ItemTouchHelper.SimpleCallback itemTouchHelper = new ItemTouchHelper.SimpleCallback(0,ItemTouchHelper.RIGHT | ItemTouchHelper.LEFT) {
+        @Override
+        public boolean onMove(@NonNull RecyclerView recyclerView, @NonNull RecyclerView.ViewHolder viewHolder, @NonNull RecyclerView.ViewHolder target) {
+            return false;
+        }
+
+        @Override
+        public void onSwiped(@NonNull RecyclerView.ViewHolder viewHolder, int direction) {
+            FridgeDatabase.delete(((FridgeListAdapter.FridgeViewHolder)viewHolder).fridge);
+            adapter.notifyDataSetChanged();
+        }
+    };
 }

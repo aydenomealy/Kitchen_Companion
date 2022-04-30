@@ -63,7 +63,6 @@ public class AddRecipeFrag extends Fragment {
 
         recyclerView.setLayoutManager(new LinearLayoutManager(view.getContext()));
 
-        //TODO fix edit text within recycler view
         requireView().findViewById(R.id.finish).setOnClickListener(v -> {
             String title = ((EditText) requireView().findViewById(R.id.title)).getText().toString();
             String servings = ((EditText) requireView().findViewById(R.id.servings)).getText().toString();
@@ -71,19 +70,25 @@ public class AddRecipeFrag extends Fragment {
             String video = ((EditText) requireView().findViewById(R.id.video)).getText().toString();
             List<String> servingList = adapter.servingsList;
 
+            HashMap<String, Boolean> search = new HashMap<>();
             HashMap<String, String> ingredients = new HashMap<>();
             for (int i = 0; i < data.size(); i++) {
+                search.put(data.get(i), true);
                 ingredients.put(data.get(i), servingList.get(i));
             }
 
+            if (!video.isEmpty())
+                video = video.split("=")[1];
+
             //TODO come up with a better disqualify
-            if (!(title.equals(servings) && title.equals(directions))) {
+            if (!(title.isEmpty() || directions.isEmpty() || servings.isEmpty() || ingredients.isEmpty())) {
                 Map<String, Object> recipe = new HashMap<>();
                 recipe.put("title", title);
-                recipe.put("video", video.split("=")[1]);
+                recipe.put("video", video);
                 recipe.put("serving", servings);
                 recipe.put("directions", directions);
                 recipe.put("ingredients", ingredients);
+                recipe.put("search", search);
 
                 db.collection("recipes").document()
                         .set(recipe)
@@ -121,11 +126,6 @@ public class AddRecipeFrag extends Fragment {
                 this.textView = itemView.findViewById(R.id.foodName);
                 this.editText = itemView.findViewById(R.id.servings);
                 this.editTextListener = editTextListener;
-
-                //TODO swipe to delete maybe
-                itemView.setOnClickListener(v -> {
-
-                });
             }
 
             void enableTextWatcher() {
@@ -144,10 +144,9 @@ public class AddRecipeFrag extends Fragment {
         public IngredientListAdapter(List<String> dataset) {
             recipeList = dataset;
             servingsList = new ArrayList<>();
-            if(dataset.size() != 0)
+            if (dataset.size() != 0)
                 dataset.forEach(s -> servingsList.add(" "));
         }
-
 
         @NonNull
         @Override

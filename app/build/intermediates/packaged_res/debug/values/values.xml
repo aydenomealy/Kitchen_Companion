@@ -44,7 +44,7 @@
     <string name="select_type_of_food">Select type of food</string>
     <string name="vegetables">Vegetables</string>
     <string name="video_link">Video link (optional)</string>
-    <style name="Theme.Light" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+    <style name="Theme.Light" parent="Theme.AppCompat.DayNight.NoActionBar">
         <!-- Primary brand color. -->
         <item name="colorPrimary">@color/yellow</item>
         <item name="colorPrimaryVariant">@color/pink</item>

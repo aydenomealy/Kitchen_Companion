@@ -74,8 +74,6 @@ public class ViewRecipeFrag extends Fragment {
             holder.getServingView().setText(servings.get(position));
         }
 
-
-
         @Override
         public int getItemCount() {
             return ingredients.size();

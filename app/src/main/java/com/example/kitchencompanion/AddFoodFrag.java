@@ -53,8 +53,6 @@ public class AddFoodFrag extends Fragment {
                 adapter.setFoodSet(Constants.spices));
     }
 
-
-
     public static class AddFoodAdapter extends RecyclerView.Adapter<AddFoodAdapter.ViewHolder> {
         private String[] foodSet;
         private final boolean bool;
@@ -68,7 +66,6 @@ public class AddFoodFrag extends Fragment {
 
                 textView = view.findViewById(R.id.foodName);
                 imageView = view.findViewById(R.id.foodImage);
-
             }
 
             public TextView getTextView() {
@@ -85,11 +82,10 @@ public class AddFoodFrag extends Fragment {
             this.bool = bool;
         }
 
-
         @NonNull
         @Override
         public ViewHolder onCreateViewHolder(@NonNull ViewGroup parent, int viewType) {
-            View view = LayoutInflater.from(parent.getContext()).inflate(R.layout.list_item, parent, false);
+            View view = LayoutInflater.from(parent.getContext()).inflate(R.layout.food_item, parent, false);
             return new ViewHolder(view);
         }
 
@@ -98,7 +94,6 @@ public class AddFoodFrag extends Fragment {
             holder.getTextView().setText(foodSet[position]);
             holder.getImageView().setOnClickListener((v) -> {
                 if(bool) {
-                    //TODO add click effect
                     String category;
                     switch (foodSet[0]) {
                         case ("Orange"):
@@ -116,9 +111,13 @@ public class AddFoodFrag extends Fragment {
                         case ("Coconut Oil"):
                             category = "Fat";
                             break;
+                        case ("Black Pepper"):
+                            category = "Spice";
+                            break;
+                        case ("Flour"):
+                            category = "Grains";
+                            break;
                         default:
-                            //TODO
-                            //("Black Pepper") aka spice
                             category = "Other";
                             break;
                     }

@@ -40,9 +40,8 @@ public class GenerateRecipeFrag extends Fragment {
         super.onViewCreated(view, savedInstanceState);
 
         Query query = db.collection("recipes");
-
         for (String item : getArguments().getStringArrayList("list"))
-            query = query.whereNotEqualTo("ingredients." + item, false);
+            query = query.whereEqualTo("search." + item, true);
 
         query.get()
                 .addOnSuccessListener(task -> {
@@ -117,7 +116,7 @@ public class GenerateRecipeFrag extends Fragment {
                 args.putStringArrayList("servings", servings);
                 args.putStringArrayList("ingredients", ingredients);
 
-                onMessageListener.sendMessageGen(args);
+               onMessageListener.sendMessageGen(args);
             });
         }
 
