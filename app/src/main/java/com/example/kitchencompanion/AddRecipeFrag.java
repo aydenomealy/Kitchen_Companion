@@ -18,9 +18,11 @@ import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.fragment.app.Fragment;
 import androidx.localbroadcastmanager.content.LocalBroadcastManager;
+import androidx.recyclerview.widget.ItemTouchHelper;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
+import com.example.kitchencompanion.db.FridgeDatabase;
 import com.google.firebase.firestore.FirebaseFirestore;
 
 import java.util.ArrayList;
@@ -35,6 +37,7 @@ public class AddRecipeFrag extends Fragment {
 
     List<String> data = new ArrayList<>();
     FirebaseFirestore db = FirebaseFirestore.getInstance();
+    IngredientListAdapter adapter;
 
     private final BroadcastReceiver receiver = (new BroadcastReceiver() {
         @Override
@@ -51,15 +54,17 @@ public class AddRecipeFrag extends Fragment {
 //        TransitionInflater inflater = TransitionInflater.from(requireContext());
 //        setEnterTransition(inflater.inflateTransition(R.transition.fade));
 //        setExitTransition(inflater.inflateTransition(R.transition.fade));
+        LocalBroadcastManager.getInstance(getContext()).unregisterReceiver(receiver);
         LocalBroadcastManager.getInstance(getContext()).registerReceiver(receiver,
                 new IntentFilter("add-food-recipe"));
 
         requireView().findViewById(R.id.add_ingredient).setOnClickListener(v ->
                 ((MainActivity) getActivity()).addToRecipe());
 
-        IngredientListAdapter adapter = new IngredientListAdapter(data);
+        adapter = new IngredientListAdapter(data);
         RecyclerView recyclerView = requireView().findViewById(R.id.recycle);
         recyclerView.setAdapter(adapter);
+        new ItemTouchHelper(itemTouchHelper).attachToRecyclerView(recyclerView);
 
         recyclerView.setLayoutManager(new LinearLayoutManager(view.getContext()));
 
@@ -80,7 +85,6 @@ public class AddRecipeFrag extends Fragment {
             if (!video.isEmpty())
                 video = video.split("=")[1];
 
-            //TODO come up with a better disqualify
             if (!(title.isEmpty() || directions.isEmpty() || servings.isEmpty() || ingredients.isEmpty())) {
                 Map<String, Object> recipe = new HashMap<>();
                 recipe.put("title", title);
@@ -207,4 +211,17 @@ public class AddRecipeFrag extends Fragment {
             }
         }
     }
+    ItemTouchHelper.SimpleCallback itemTouchHelper = new ItemTouchHelper.SimpleCallback(0, ItemTouchHelper.RIGHT | ItemTouchHelper.LEFT) {
+        @Override
+        public boolean onMove(@NonNull RecyclerView recyclerView, @NonNull RecyclerView.ViewHolder viewHolder, @NonNull RecyclerView.ViewHolder target) {
+            return false;
+        }
+
+        @Override
+        public void onSwiped(@NonNull RecyclerView.ViewHolder viewHolder, int direction) {
+            int pos = viewHolder.getAbsoluteAdapterPosition();
+            data.remove(pos);
+            adapter.notifyItemRemoved(pos);
+        }
+    };
 }

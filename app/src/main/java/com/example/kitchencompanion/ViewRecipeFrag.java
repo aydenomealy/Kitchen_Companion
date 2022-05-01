@@ -34,7 +34,7 @@ public class ViewRecipeFrag extends Fragment {
         youTubePlayerView.addYouTubePlayerListener(new AbstractYouTubePlayerListener() {
             @Override
             public void onReady(@NonNull YouTubePlayer youTubePlayer) {
-                if(!getArguments().getString("video").isEmpty())
+                if (!getArguments().getString("video").isEmpty())
                     youTubePlayer.cueVideo(getArguments().getString("video"), 0);
                 else
                     youTubePlayer.cueVideo("dQw4w9WgXcQ", 0);
@@ -79,7 +79,7 @@ public class ViewRecipeFrag extends Fragment {
             return ingredients.size();
         }
 
-        public static class RecipeViewHolder extends RecyclerView.ViewHolder{
+        public static class RecipeViewHolder extends RecyclerView.ViewHolder {
             private final TextView ingredient;
             private final TextView serving;
 
@@ -89,9 +89,11 @@ public class ViewRecipeFrag extends Fragment {
                 this.ingredient = itemView.findViewById(R.id.foodName);
                 this.serving = itemView.findViewById(R.id.servings);
             }
+
             public TextView getIngredientView() {
                 return ingredient;
             }
+
             public TextView getServingView() {
                 return serving;
             }

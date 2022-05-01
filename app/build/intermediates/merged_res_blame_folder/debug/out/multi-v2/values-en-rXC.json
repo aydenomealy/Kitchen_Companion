@@ -4,7 +4,24 @@
             "outputFile": "C:\\Users\\Ayden\\Desktop\\School\\CMPSC475\\KitchenCompanion\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rXC\\values-en-rXC.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Ayden\\.gradle\\caches\\transforms-3\\4cbcb2a139875109bde94b7e730430f9\\transformed\\appcompat-1.4.1\\res\\values-en-rXC\\values-en-rXC.xml",
+                    "source": "C:\\Users\\Ayden\\.gradle\\caches\\transforms-3\\65c5a45dc0ebea764720990f61f025b1\\transformed\\core-1.7.0\\res\\values-en-rXC\\values-en-rXC.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "203",
+                        "endOffsets": "254"
+                    },
+                    "to": {
+                        "startLines": "34",
+                        "startColumns": "4",
+                        "startOffsets": "6503",
+                        "endColumns": "203",
+                        "endOffsets": "6702"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Ayden\\.gradle\\caches\\transforms-3\\d4417e0859b0639c4a6f346aa18b54a8\\transformed\\appcompat-1.4.1\\res\\values-en-rXC\\values-en-rXC.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -21,7 +38,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Ayden\\.gradle\\caches\\transforms-3\\b63c0170d6a2c95932cc33a56ef365b7\\transformed\\preference-1.2.0\\res\\values-en-rXC\\values-en-rXC.xml",
+                    "source": "C:\\Users\\Ayden\\.gradle\\caches\\transforms-3\\1dadae9e4556b5c29dc9c667f0e6922a\\transformed\\preference-1.2.0\\res\\values-en-rXC\\values-en-rXC.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8",
                         "startColumns": "4,4,4,4,4,4,4",
@@ -35,23 +52,6 @@
                         "startOffsets": "5528,5699,5888,6065,6707,7009,7191",
                         "endColumns": "170,188,176,251,301,181,172",
                         "endOffsets": "5694,5883,6060,6312,7004,7186,7359"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Ayden\\.gradle\\caches\\transforms-3\\fb9aa2ab3966fe894c67bd9003ea76a4\\transformed\\core-1.7.0\\res\\values-en-rXC\\values-en-rXC.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "203",
-                        "endOffsets": "254"
-                    },
-                    "to": {
-                        "startLines": "34",
-                        "startColumns": "4",
-                        "startOffsets": "6503",
-                        "endColumns": "203",
-                        "endOffsets": "6702"
                     }
                 }
             ]

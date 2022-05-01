@@ -11,7 +11,7 @@ import com.google.android.material.bottomnavigation.BottomNavigationView;
 
 import java.util.ArrayList;
 
-public class MainActivity extends AppCompatActivity implements MyFridgeFrag.OnMessageFridge{
+public class MainActivity extends AppCompatActivity implements MyFridgeFrag.OnMessageFridge {
     BottomNavigationView bNavView;
     FragmentManager fragmentManager = getSupportFragmentManager();
     int currentFrag;
@@ -27,7 +27,7 @@ public class MainActivity extends AppCompatActivity implements MyFridgeFrag.OnMe
         bNavView.setOnItemSelectedListener(item -> {
             switch (item.getItemId()) {
                 case R.id.add_food:
-                    if(currentFrag != R.id.add_food) {
+                    if (currentFrag != R.id.add_food) {
                         Bundle bundle = new Bundle();
                         bundle.putBoolean("use", true);
                         AddFoodFrag frag = new AddFoodFrag();
@@ -42,7 +42,7 @@ public class MainActivity extends AppCompatActivity implements MyFridgeFrag.OnMe
                     }
                     return true;
                 case R.id.home:
-                    if(currentFrag != R.id.home) {
+                    if (currentFrag != R.id.home) {
                         fragmentManager.beginTransaction()
                                 .setReorderingAllowed(true)
                                 .replace(R.id.frag_view, MyFridgeFrag.class, null)
@@ -52,7 +52,7 @@ public class MainActivity extends AppCompatActivity implements MyFridgeFrag.OnMe
                     }
                     return true;
                 case R.id.add_recipe:
-                    if(currentFrag != R.id.add_recipe) {
+                    if (currentFrag != R.id.add_recipe) {
                         fragmentManager.beginTransaction()
                                 .setReorderingAllowed(true)
                                 .replace(R.id.frag_view, AddRecipeFrag.class, null)
@@ -83,7 +83,7 @@ public class MainActivity extends AppCompatActivity implements MyFridgeFrag.OnMe
     public void sendMessageFridge(ArrayList<Fridge> message) {
         ArrayList<String> foods = new ArrayList<>();
 
-        for(Fridge fridge : message)
+        for (Fridge fridge : message)
             foods.add(fridge.item);
 
         Intent intent = new Intent(this, FragHolderActivity.class);

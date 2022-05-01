@@ -24,7 +24,7 @@ import java.util.List;
 
 public class GenerateRecipeFrag extends Fragment {
 
-    public interface OnMessageGen{
+    public interface OnMessageGen {
         void sendMessageGen(Bundle message);
     }
 
@@ -57,7 +57,7 @@ public class GenerateRecipeFrag extends Fragment {
     @Override
     public void onAttach(@NonNull Context context) {
         super.onAttach(context);
-        if(context instanceof OnMessageGen)
+        if (context instanceof OnMessageGen)
             onMessageListener = (OnMessageGen) context;
 
         else
@@ -116,7 +116,7 @@ public class GenerateRecipeFrag extends Fragment {
                 args.putStringArrayList("servings", servings);
                 args.putStringArrayList("ingredients", ingredients);
 
-               onMessageListener.sendMessageGen(args);
+                onMessageListener.sendMessageGen(args);
             });
         }
 

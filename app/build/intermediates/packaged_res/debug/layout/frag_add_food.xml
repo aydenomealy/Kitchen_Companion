@@ -44,17 +44,20 @@
             <androidx.appcompat.widget.AppCompatImageButton
                 android:id="@+id/meat"
                 android:layout_margin="5dp"
-                android:background="@mipmap/meat_icon" />
+                android:background="@mipmap/meat_icon"
+                android:foreground="?android:attr/selectableItemBackground"/>
 
             <androidx.appcompat.widget.AppCompatImageButton
                 android:id="@+id/veggie"
                 android:layout_margin="5dp"
-                android:background="@mipmap/veggie_icon" />
+                android:background="@mipmap/veggie_icon"
+                android:foreground="?android:attr/selectableItemBackground"/>
 
             <androidx.appcompat.widget.AppCompatImageButton
                 android:id="@+id/fruit"
                 android:layout_margin="5dp"
-                android:background="@mipmap/fruit_icon" />
+                android:background="@mipmap/fruit_icon"
+                android:foreground="?android:attr/selectableItemBackground"/>
 
         </TableRow>
 
@@ -63,17 +66,20 @@
             <androidx.appcompat.widget.AppCompatImageButton
                 android:id="@+id/dairy"
                 android:layout_margin="5dp"
-                android:background="@mipmap/dairy_icon" />
+                android:background="@mipmap/dairy_icon"
+                android:foreground="?android:attr/selectableItemBackground"/>
 
             <androidx.appcompat.widget.AppCompatImageButton
                 android:id="@+id/fat"
                 android:layout_margin="5dp"
-                android:background="@mipmap/fats_icon" />
+                android:background="@mipmap/fats_icon"
+                android:foreground="?android:attr/selectableItemBackground"/>
 
             <androidx.appcompat.widget.AppCompatImageButton
                 android:id="@+id/spice"
                 android:layout_margin="5dp"
-                android:background="@mipmap/other_icon" />
+                android:background="@mipmap/other_icon"
+                android:foreground="?android:attr/selectableItemBackground"/>
         </TableRow>
     </TableLayout>
 

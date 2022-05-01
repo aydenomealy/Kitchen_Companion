@@ -50,7 +50,7 @@ public class MyFridgeFrag extends Fragment {
         SharedPreferences sharedPreferences = PreferenceManager.getDefaultSharedPreferences(getContext());
         String name = sharedPreferences.getString("name", "");
 
-        if(!name.equals("")) {
+        if (!name.equals("")) {
             name = name.concat("'s Fridge");
             ((TextView) requireView().findViewById(R.id.textView)).setText(name);
         }
@@ -83,8 +83,7 @@ public class MyFridgeFrag extends Fragment {
             if (foodIds.size() != 0) {
                 onMessageListener.sendMessageFridge(foodIds);
                 foodIds.clear();
-            }
-            else
+            } else
                 Toast.makeText(getActivity(), "Select at least one item", Toast.LENGTH_SHORT).show();
         });
     }
@@ -206,7 +205,8 @@ public class MyFridgeFrag extends Fragment {
             else return 0;
         }
     }
-    ItemTouchHelper.SimpleCallback itemTouchHelper = new ItemTouchHelper.SimpleCallback(0,ItemTouchHelper.RIGHT | ItemTouchHelper.LEFT) {
+
+    ItemTouchHelper.SimpleCallback itemTouchHelper = new ItemTouchHelper.SimpleCallback(0, ItemTouchHelper.RIGHT | ItemTouchHelper.LEFT) {
         @Override
         public boolean onMove(@NonNull RecyclerView recyclerView, @NonNull RecyclerView.ViewHolder viewHolder, @NonNull RecyclerView.ViewHolder target) {
             return false;
@@ -214,7 +214,7 @@ public class MyFridgeFrag extends Fragment {
 
         @Override
         public void onSwiped(@NonNull RecyclerView.ViewHolder viewHolder, int direction) {
-            FridgeDatabase.delete(((FridgeListAdapter.FridgeViewHolder)viewHolder).fridge);
+            FridgeDatabase.delete(((FridgeListAdapter.FridgeViewHolder) viewHolder).fridge);
             adapter.notifyDataSetChanged();
         }
     };

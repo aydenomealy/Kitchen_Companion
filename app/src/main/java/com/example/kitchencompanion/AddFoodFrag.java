@@ -126,8 +126,9 @@ public class AddFoodFrag extends Fragment {
                     Intent intent = new Intent("add-food-recipe");
                     intent.putExtra("message", foodSet[position]);
                     LocalBroadcastManager.getInstance(holder.imageView.getContext()).sendBroadcast(intent);
+
                 }
-                Toast.makeText(holder.getTextView().getContext(), "Success " + foodSet[position].toLowerCase() + " added!", Toast.LENGTH_LONG).show();
+                Toast.makeText(holder.getTextView().getContext(), "Success " + foodSet[position].toLowerCase() + " added!", Toast.LENGTH_SHORT).show();
             });
         }
 
