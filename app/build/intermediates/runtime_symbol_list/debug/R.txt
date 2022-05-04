@@ -2834,7 +2834,6 @@ int id decelerate 0x7f080098
 int id decelerateAndComplete 0x7f080099
 int id decor_content_parent 0x7f08009a
 int id default_activity_button 0x7f08009b
-int id delete 0x7f08009c
 int id deltaRelative 0x7f08009d
 int id dependency_ordering 0x7f08009e
 int id design_bottom_sheet 0x7f08009f
@@ -3167,7 +3166,6 @@ int id textTop 0x7f0801e5
 int id textView 0x7f0801e6
 int id textView2 0x7f0801e7
 int id textView3 0x7f0801e8
-int id textView4 0x7f0801e9
 int id text_input_end_icon 0x7f0801ea
 int id text_input_error_icon 0x7f0801eb
 int id text_input_start_icon 0x7f0801ec

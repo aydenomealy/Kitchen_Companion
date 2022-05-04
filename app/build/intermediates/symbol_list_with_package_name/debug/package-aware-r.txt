@@ -2835,7 +2835,6 @@ id decelerate
 id decelerateAndComplete
 id decor_content_parent
 id default_activity_button
-id delete
 id deltaRelative
 id dependency_ordering
 id design_bottom_sheet
@@ -3168,7 +3167,6 @@ id textTop
 id textView
 id textView2
 id textView3
-id textView4
 id text_input_end_icon
 id text_input_error_icon
 id text_input_start_icon

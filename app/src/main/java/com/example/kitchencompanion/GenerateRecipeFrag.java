@@ -45,7 +45,6 @@ public class GenerateRecipeFrag extends Fragment {
 
         query.get()
                 .addOnSuccessListener(task -> {
-                    Toast.makeText(getActivity(), "test", Toast.LENGTH_SHORT).show();
                     RecyclerView recyclerView = requireView().findViewById(R.id.recycle);
                     RecipeListAdapter adapter = new RecipeListAdapter(task.getDocuments());
                     recyclerView.setAdapter(adapter);

@@ -41,7 +41,6 @@ public class ViewRecipeFrag extends Fragment {
             }
         });
 
-        ((TextView) requireView().findViewById(R.id.textView)).setText(getArguments().getString("title"));
         ((TextView) requireView().findViewById(R.id.directions)).setText(getArguments().getString("directions"));
         ((TextView) requireView().findViewById(R.id.servings)).setText("Number of servings: " + getArguments().getString("serving"));
 

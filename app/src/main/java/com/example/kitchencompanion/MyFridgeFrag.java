@@ -70,15 +70,6 @@ public class MyFridgeFrag extends Fragment {
         FridgeViewModel fridgeViewModel = new ViewModelProvider(this).get(FridgeViewModel.class);
         fridgeViewModel.getAllFridge().observe(getViewLifecycleOwner(), adapter::setFridge);
 
-        requireView().findViewById(R.id.delete).setOnClickListener(v -> {
-            for (Fridge fridge : foodIds) {
-                FridgeDatabase.delete(fridge);
-            }
-            foodIds.clear();
-            FridgeDatabase.getDatabase(getContext());
-        });
-
-
         requireView().findViewById(R.id.generate).setOnClickListener(v -> {
             if (foodIds.size() != 0) {
                 onMessageListener.sendMessageFridge(foodIds);

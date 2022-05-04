@@ -43,7 +43,6 @@ id add_ingredient
 id add_recipe
 id appBarLayout
 id dairy
-id delete
 id directions
 id fat
 id finish
@@ -68,7 +67,6 @@ id tableLayout
 id textView
 id textView2
 id textView3
-id textView4
 id title
 id toolbar
 id veggie

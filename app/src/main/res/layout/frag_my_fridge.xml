@@ -45,14 +45,6 @@
         app:layout_constraintStart_toStartOf="parent">
 
         <androidx.appcompat.widget.AppCompatButton
-            android:id="@+id/delete"
-            android:layout_width="150dp"
-            android:layout_height="wrap_content"
-            android:layout_margin="10dp"
-            android:text="@string/delete"
-            android:textColor="?attr/text_color" />
-
-        <androidx.appcompat.widget.AppCompatButton
             android:id="@+id/generate"
             android:layout_width="150dp"
             android:layout_height="wrap_content"

@@ -19,9 +19,8 @@ public class FragHolderActivity extends AppCompatActivity implements GenerateRec
         setContentView(R.layout.activity_holder);
         setSupportActionBar(findViewById(R.id.toolbar));
 
-        ((Toolbar)findViewById(R.id.toolbar)).setTitle("Recipes");
-
         findViewById(R.id.imageView2).setOnClickListener(v -> {
+            ((Toolbar)findViewById(R.id.toolbar)).setTitle("Recipes");
 
             if(currentFrag == R.id.generate) {
                 finish();
@@ -29,10 +28,9 @@ public class FragHolderActivity extends AppCompatActivity implements GenerateRec
             }
             fragmentManager.popBackStackImmediate();
             currentFrag = R.id.generate;
-            ((Toolbar)findViewById(R.id.toolbar)).setTitle("Recipes");
         });
 
-
+        ((Toolbar)findViewById(R.id.toolbar)).setTitle("Recipes");
 
         Bundle bundle = new Bundle();
         bundle.putStringArrayList("list", getIntent().getStringArrayListExtra("list"));
